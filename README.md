@@ -1,4 +1,8 @@
-**Автор:** HALVITA
+**Author:** Хальвита Евгений Александрович (HALVITA / HALVITA20)
+
+**Project:** MIRROR꩜VORTEX³
+
+**Related:** HALVITA-ARK
 
 **YouTube:** https://www.youtube.com/@HALVITA
 
@@ -9,7 +13,6 @@
 **Habr:** https://habr.com/ru/users/HALVITA
 
 **Telegram:** https://t.me/halviter
-
 
 ---
 
