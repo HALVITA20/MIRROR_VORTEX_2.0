@@ -1,3 +1,6 @@
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--5518--7801-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5518-7801)
+
+
 **Author:** Хальвита Евгений Александрович (HALVITA / HALVITA20)
 
 **Project:** MIRROR꩜VORTEX³
@@ -13,6 +16,20 @@
 **Habr:** https://habr.com/ru/users/HALVITA
 
 **Telegram:** https://t.me/halviter
+
+
+📚 **Релиз: Technopsychology of AI (v1.0)**
+
+Исходный код и методологическая рамка для исследования взаимодействия человека и LLM. От анализа Persona Drift до защиты оператора.
+
+*   **Строгая методология:** Разметка утверждений на Факты `[Ф]`, Механизмы `[М]` и Интерпретации `[И]`.
+*   **Эмпирическая база:** Более 120 задокументированных сессий.
+*   **Три оси:** КРР, РКН, КФА.
+*   **Фокус на рисках:** Изучение «Зеркальной воронки» и когнитивной деформации.
+
+👉 **[Полный текст README](https://github.com/HALVITA20/Technopsychology-of-AI/blob/main/README.md)**
+
+
 
 ---
 
